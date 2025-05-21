@@ -12,3 +12,5 @@ e=a*b;
 printf("the mul is:%d",e);
 f=a/b;
 printf("the div is:%d",f);
+return 0;
+}
